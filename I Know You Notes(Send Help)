@@ -1,0 +1,16 @@
+To start with since I've being doing this type of stuff alone (cryies in java)
+There has not been any real reason why I should have made the program any more specific.
+What I mean by this is that since i do these solo there is no real reason why I should make a FACIAL RECOGNITION.
+Since it just me i skimpped out on making that addition. But now since my goal currently is to make Glados from portal. Well lets just say my thoughts changed a little
+
+Anyways to not spoil the suprise that is my (personal) project: Making Glados i will stop here.
+
+Curently all that this program should be is to recognize the people this progrma is looking at meaning that theres a chance that Glados speaks to you more personally
+Point is that right now we are learning how to make a Facial Recognize software that will find someone specifically
+
+Coding Time: 
+Similar to the last projects the things that is very needed is OpenCV and a new one called "pip install face_recognition".
+    These are the libaries needed for this project ONLY. 
+
+
+
